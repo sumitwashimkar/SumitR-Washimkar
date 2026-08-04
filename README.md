@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitr-washimkar&label=Profile%20views&color=0e75b6&style=flat" alt="sumitr-washimkar" /> </p>
 
-- 🌱 I’m learning **Data Science**
+- 🌱 I’m experienced AI Engineer**
 
 - 💬 Ask me about **Analysis**
 
